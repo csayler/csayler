@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate on anything!
 - 🤔 I’m looking for help with Go or python.
 - 💬 Ask me about anything.
-- 📫 How to reach me: craig.sayler@gmail.com
+- 📫 How to reach me: http://linkedin.com/us/craigsayler, Slack Kubernetes, Devops, Securtiy rooms.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My dogs name is Sprocket!
+
