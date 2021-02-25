@@ -1,11 +1,11 @@
-### Hi there 👋,Hope you are doing well!!
 
-- 🔭 I’m currently working on automating secure software development lifecycle.
+A little info about my work and what I love doing. I’m currently working on automating secure software development lifecycle. The environments that I work with are usually fall into Hybrid Cloud involving AWS, Kubernetes, GCP, Azure and Openstack. I am very opensource centric.
+- CICD Tools I use Jenkins, GiHub Actions, and Terraform, Helm Charts, ChartMuseum and Docker.
+- Security Tools I have used Twistlock, Rapid7, BlackDuck, SNYK, Jfrog artifact, CIS and QWASP. 
+- I have worked for @HPE, @NASA, @Viasat and @NAVAIR. Currently @Bain.
 - 🌱 I’m currently learning python 3 and Go.
-- 👯 I’m looking to collaborate on anything!
-- 🤔 I’m looking for help with Go or python.
-- 💬 Ask me about anything.
-- 📫 How to reach me: http://linkedin.com/us/craigsayler, Slack Kubernetes, Devops, Securtiy rooms.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: My dogs name is Sprocket!
+- 👯 I love collaborating, I believe we grow and learn faster working together for one cause, to make the world a better place.
+- 📫 How to reach me: http://linkedin.com/us/craigsayler, Slack Kubernetes, Devops, Security rooms.
+
+
 
